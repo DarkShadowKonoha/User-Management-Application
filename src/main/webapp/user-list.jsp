@@ -15,8 +15,7 @@
 		<nav class="navbar navbar-expand-md navbar-dark"
 			style="background-color: tomato">
 			<div>
-				<a href="https://www.javaguides.net" class="navbar-brand"> User
-					Management App </a>
+				<a href="https://girish-jha-portfolio.netlify.app/" target="_blank" class="navbar-brand"> Portfolio Link </a>
 			</div>
 
 			<ul class="navbar-nav">
